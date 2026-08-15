@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**sachinShettys90/sachinShettys90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GenAI & Agentic AI Developer | RPA UiPath Consultant
 
-Here are some ideas to get you started:
+I'm an automation-to-AI engineer with **7.5+ years of experience as an RPA Developer** and **3+ years working with Python, GenAI, and Agentic AI**. I bridge traditional process automation with modern LLM-powered systems — building agents that don't just follow rules, but reason, plan, and act.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+- 🤖 **Agentic AI Development** — building tool-using, multi-step agents with **LangGraph** (state graphs, conditional routing, tool calling)
+- 🔗 **LLM Application Engineering** — RAG pipelines, structured output generation, dynamic prompting, and chain architectures with **LangChain**
+- ⚙️ **RPA & Process Automation** — end-to-end automation design and delivery as a **Certified UiPath RPA Developer**
+
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` · `LangChain` · `LangGraph` · `LangSmith`  · `UiPath` · `FastAPI` · `Docker` · `Pydantic` · `RAG` · `Vector Databases`
+
+---
+
+### 🧩 Featured Projects
+
+- **YouTube Chatbot with RAG (Runnable Chains)** — a retrieval-augmented chatbot built using LangChain's Runnable architecture to answer questions over YouTube video content.
+
+- **Insurance Premium Predictor**
+In Progress
+
+An end-to-end machine learning system that predicts a user's **insurance premium category** (Low / Medium / High) from health, lifestyle, and demographic data — built with a scikit-learn classification pipeline, served through a **FastAPI** backend, and consumed via a **Streamlit** frontend.
+
+---
+
+### 📈 Currently Learning
+
+Deepening my expertise in **agentic AI systems** — multi-agent orchestration, evaluation-driven development, and deploying LLM agents to production with FastAPI and Docker.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sachin-shetty-5b476723b/
+- ✉️ Email:sachinshettyss85@gmail.com
+- 🌐 Portfolio: https://github.com/sachinShettys90
+
+---
+
+⭐️ *Open to opportunities in Agentic AI / GenAI Engineering and RPA-to-AI transformation projects.*
