@@ -38,7 +38,7 @@ An end-to-end machine learning system that predicts a user's **insurance premium
 
 ### 📈 Currently Learning
 
-Deepening my expertise in **agentic AI systems** — multi-agent orchestration, evaluation-driven development, and deploying LLM agents to production with FastAPI and Docker.
+Deepening my expertise in **agentic AI systems** — multi-agent orchestration, evaluation-driven development, and deploying LLM agents to production with FastAPI, MCP and Docker.
 
 ---
 
