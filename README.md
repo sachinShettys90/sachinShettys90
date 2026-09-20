@@ -17,7 +17,7 @@ I'm an automation-to-AI engineer with **7.5+ years of experience as an RPA Devel
 
 ### 🛠️ Tech Stack
 
-`Python` · `LangChain` · `LangGraph` · `LangSmith`  · `UiPath` · `FastAPI` · `Docker` · `Pydantic` · `RAG` · `Vector Databases`
+`Python` · `LangChain` · `LangGraph` · `LangSmith`  · `UiPath` · `FastAPI` · `Docker` · `Pydantic` · `RAG` · `Vector Databases` · `FastMCP`
 
 ---
 
@@ -32,7 +32,11 @@ CHATBOT URL - https://project3llmchatbot-kbggeqcsq6wgsuoddvrug6.streamlit.app/
 
 An end-to-end machine learning system that predicts a user's **insurance premium category** (Low / Medium / High) from health, lifestyle, and demographic data — built with a scikit-learn classification pipeline, served through a **FastAPI** backend, and consumed via a **Streamlit** frontend.
 
--**Smart Personal Finance Tracker** - InProgress
+-**Smart Personal Finance Tracker- FastMCP implementation ** - Completed
+
+Live server (hosted on FastMCP Cloud): https://expense-tracker-sachin-mcp-serv.fastmcp.app/mcp
+
+An MCP server that lets you track expenses, budgets, and income directly through natural-language chat with Claude (or any MCP-compatible client) — no spreadsheet required.
 
 ---
 
