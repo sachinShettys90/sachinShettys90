@@ -45,6 +45,26 @@ I'm an automation-to-AI engineer with **7.5+ years of experience as an RPA Devel
         and lets an LLM pick and call tools from either, transparently.
 ---
 
+* **AI Agents**
+
+  * **AI Data Analyst Agent — Agno + OpenAI**
+
+    Live Demo: https://eui8mbwzamzrrtyvegmwkh.streamlit.app/
+
+    An AI-powered Data Analyst Agent that allows users to upload CSV/Excel datasets and analyze them using natural-language questions — no SQL expertise required.
+
+    Built with **Agno, OpenAI, Pandas, DuckDB and Streamlit**, with **LangSmith** integrated for agent tracing, observability and debugging.
+
+  * **AI Research Agent — Multi-Agent Workflow**
+    
+     Live Demo: https://76neyq2bh9dkojsxeewb6o.streamlit.app/
+
+    A multi-agent research application built with **Agno Teams** that uses specialized agents for web search, HackerNews research and article extraction.
+
+    The agents independently gather information from different sources and combine their findings into a structured research response, providing an interactive Streamlit-based research experience.
+
+---
+
 ### 📈 Currently Learning
 
 Deepening my expertise in **agentic AI systems** — multi-agent orchestration, evaluation-driven development, and deploying LLM agents to production with FastAPI, MCP and Docker.
