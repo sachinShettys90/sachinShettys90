@@ -27,10 +27,18 @@ I'm an automation-to-AI engineer with **7.5+ years of experience as an RPA Devel
 
 - **Insurance Premium Predicto(ML Model implementation)** r-An end-to-end machine learning system that predicts a user's insurance premium category (Low / Medium / High) from health, lifestyle, and demographic data — built with a scikit-learn classification pipeline, served through a FastAPI backend, and consumed via a Streamlit frontend.
 
-- **LLM Chatbot**
-  CHATBOT URL - https://project3llmchatbot-kbggeqcsq6wgsuoddvrug6.streamlit.app/
+- **LLM Chatbot with Tool Calling
+**Live demo:** [project3llmchatbot.streamlit.app] https://project3llmchatbot-kbggeqcsq6wgsuoddvrug6.streamlit.app/)
 
-  An end-to-end machine learning system that predicts a user's **insurance premium category** (Low / Medium / High) from health, lifestyle, and demographic data — built with a scikit-learn classification pipeline, served    through a **FastAPI** backend, and consumed via a **Streamlit** frontend.
+  A persistent, streaming AI chatbot built with **LangGraph** and **Streamlit**. It uses tool calling to decide on its own when to search the web, fetch live stock prices, or run calculations, and its conversations are      saved so they survive restarts.
+
+  **Features**
+    - **Tool calling (LangGraph agent loop):** DuckDuckGo web search, Alpha Vantage live stock quotes, and a calculator tool
+    - **Streaming responses** with live "tool in use" indicators
+    - **Multi-conversation memory:** SQLite checkpointing, sidebar with auto-generated titles, and delete support
+    - **Observability:** LangSmith tracing plus automated evaluation of every response (heuristic checks and LLM-as-judge)
+
+    **Tech stack:** Python, LangGraph, LangChain, OpenAI, Streamlit, SQLite, LangSmith
 
 - **MCP**
     - **Smart Personal Finance Tracker- FastMCP implementation**
