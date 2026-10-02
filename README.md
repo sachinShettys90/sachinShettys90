@@ -27,8 +27,8 @@ I'm an automation-to-AI engineer with **7.5+ years of experience as an RPA Devel
 
 - **Insurance Premium Predicto(ML Model implementation)** r-An end-to-end machine learning system that predicts a user's insurance premium category (Low / Medium / High) from health, lifestyle, and demographic data — built with a scikit-learn classification pipeline, served through a FastAPI backend, and consumed via a Streamlit frontend.
 
-- **LLM Chatbot with Tool Calling
-**Live demo:** [project3llmchatbot.streamlit.app] https://project3llmchatbot-kbggeqcsq6wgsuoddvrug6.streamlit.app/)
+- **LLM Chatbot with Tool Calling**
+  **Live demo:** [project3llmchatbot.streamlit.app] https://project3llmchatbot-kbggeqcsq6wgsuoddvrug6.streamlit.app/)
 
   A persistent, streaming AI chatbot built with **LangGraph** and **Streamlit**. It uses tool calling to decide on its own when to search the web, fetch live stock prices, or run calculations, and its conversations are      saved so they survive restarts.
 
